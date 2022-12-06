@@ -4,3 +4,6 @@ With memory to share my bed
 And peace to share my fire. 
 adding to second paragraph
 Another commit in mine
+This is my addition to shanaz git project.....
+My sample addition
+hello
